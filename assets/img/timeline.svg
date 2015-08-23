@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg width="1173" height="531" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+ <defs>
+  <polygon fill="#1B72AB" stroke="black" id="svgEditorPolygonDefs"/>
+  <text font-family=" Arial" fill="black" id="svgEditorTextDefs"/>
+  <g stroke="black" fill="khaki" id="svgEditorGroupDefs"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g transform="matrix(1,0,0,1,-168,-2) " id="e9_group">
+   <g id="e10_group">
+    <circle stroke-width=" 7.79px" transform="matrix(1,0,0,1,0,-1.5) " r="16.185801" stroke="#1B72AB" cy="262" cx="787" id="e1_circle"/>
+    <rect stroke-width=" 1px" transform="matrix(1.80881,0,0,1,32.4889,-69.5) " id="e3_rectangle" fill="#1B72AB" height="10" width="116" y="325" x="157.065248"/>
+    <rect stroke-width=" 1px" id="e6_rectangle" transform="matrix(1.80881,0,0,1,31.4889,-69.5) " fill="#1B72AB" height="10" width="116" y="325" x="291.960248"/>
+    <rect stroke-width=" 1px" id="e7_rectangle" transform="matrix(0.947907,0,0,1,305.799,-69) " fill="#1B72AB" height="10" width="116" y="325" x="522.964779"/>
+    <circle stroke-width=" 7.79px" id="e11_circle" transform="matrix(1,0,0,1,0,-1.5) " r="16.185801" stroke="#1B72AB" cy="262" cx="544"/>
+    <circle stroke-width=" 7.79px" id="e12_circle" transform="matrix(1,0,0,1,0,-0.5) " r="16.185801" stroke="#1B72AB" cy="261" cx="299"/>
+    <rect stroke-width=" 1px" id="e13_rectangle" transform="matrix(1.09128,0,0,1,-50.3783,-179) " fill="#1B72AB" height="10" width="116" y="435" x="192.053776"/>
+   </g>
+  </g>
+  <text stroke="null" transform="matrix(9.383625984191895,0,0,1,-3121.7217317074537,0) " xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="220" x="359" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="211" x="63" stroke-opacity="null" stroke-width="0" stroke="null" fill="#1b72ab">August, 2015</text>
+  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="324" x="216" stroke-opacity="null" stroke-width="0" stroke="null" fill="#1b72ab">24 October 2015 at 00:00 UTC</text>
+  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="211" x="532" stroke-opacity="null" stroke-width="0" stroke="null" fill="#1b72ab">November, 2015</text>
+ </g>
+</svg>
